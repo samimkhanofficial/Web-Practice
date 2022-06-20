@@ -1,0 +1,18 @@
+body{
+    font-family: 'Potta One', cursive;
+}
+.first-title{
+    font-size: 50px;
+}
+#name{
+    color: orange;
+}
+.first-half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.first-half img{
+    width: 100%;
+}
